@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLI.Config.Sample": {
+      "commandName": "Project",
+      "commandLineArgs": "--SampleOptions:Name Hello\r\n--SampleOptions:Value World\r\n"
+    }
+  }
+}
