@@ -1,2 +1,2 @@
 # cli-configuration-sample
-C# CLI using Microsoft.Extensions.Configuration.CommandLine 
+C# command line args configuration sample.
